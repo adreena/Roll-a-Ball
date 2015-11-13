@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 new line
+=======
+file1 line 1
+line 2
+line 3
+jdfskjdkline 4
+>>>>>>> 28900a8af5dc175a7f393f221bab9166a549a562
